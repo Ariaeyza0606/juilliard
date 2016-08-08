@@ -1,0 +1,86 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+/*SECTION 1*/
+.uno{
+	background-image: url("../img/dance_1.jpg");
+	height: 450px;
+}
+.studio, #text,.inscription{
+	color:rgba(255, 255, 255, 0.68);
+}
+.studio{
+	font-size: 68px;
+}
+#text{
+	font-size:12px;
+}
+.b-inscription1{
+	background: #030E1C;
+	border-radius: 5px;
+    border:none;
+    display: inline-block;
+    margin: 15px 0px;
+    padding: 5px 20px;
+    text-decoration: none;
+}
+/*SECTION 2*/
+.dos, .cuatro{
+	background-image: url("../img/textura_2.jpg");
+}
+.textdos{
+    margin-top: 70px;
+}
+.oferta{
+	background:#192951; 
+}
+.decoracion {
+    height: 91px;
+    width: 70px;
+    position: relative;
+    margin: -39px 0px 0px 0px;
+}
+.boton{
+    display: inline-block;
+    text-decoration: none;
+    padding: 15px 50px;
+    background-color: #020D1E;
+    border: none;
+    margin: 0px;
+    border-radius: 5px;
+}
+/*SECTION3*/
+.m-0{
+    margin: 0px !important;
+}
+.bcgr1{
+	background: url(../img/instructor_4.jpg);
+	height: 380px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+.bcgr2{
+    background: url(../img/profesor_9.jpg);
+    height: 380px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top top right
+}
+.b-inscription2{
+    display: inline-block;
+    text-decoration: none;
+    padding: 15px 50px;
+    background-color: #020D1E;
+    border: none;
+    margin: 0px;
+    border-radius: 5px;
+}
+/*SECTION4*/
+.cita{
+    font-size: 40px;
+}
